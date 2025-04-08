@@ -35,8 +35,6 @@ spaCy ensures full control, speed, and accuracy without relying on external paid
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/kamleshp214/resumeparsernew.git
 cd resumeparsernew
 2. Install Dependencies
