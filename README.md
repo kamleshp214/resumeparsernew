@@ -37,15 +37,20 @@ spaCy ensures full control, speed, and accuracy without relying on external paid
 ### 1. Clone the Repository
 git clone https://github.com/kamleshp214/resumeparsernew.git
 cd resumeparsernew
+
 2. Install Dependencies
 pip install -r requirements.txt
 ✅ Python 3.8+ recommended
+
 3. Download spaCy NLP Model
 python -m spacy download en_core_web_sm
+
 4. Run the Flask App
 python app.py
+
 5. Open in Your Browser
 http://localhost:5000
+
 🖥️ Frontend Features
 Built with HTML, CSS, JavaScript, and Bootstrap
 
